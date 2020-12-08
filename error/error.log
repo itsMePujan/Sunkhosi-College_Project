@@ -1,0 +1,16 @@
+2020-12-08 03:40 PM: Connection (PDO), SQLSTATE[HY000] [1045] Access denied for user 'root'@'localhost' (using password: YES)
+2020-12-08 03:40 PM: Connection (PDO), SQLSTATE[HY000] [1045] Access denied for user 'root'@'localhost' (using password: YES)
+2020-12-08 03:41 PM: Connection (PDO), SQLSTATE[HY000] [1045] Access denied for user 'root'@'localhost' (using password: YES)
+2020-12-08 03:47 PM: Connection (PDO), SQLSTATE[HY000] [1045] Access denied for user 'root'@'localhost' (using password: YES)
+2020-12-08 03:47 PM: Connection (PDO), SQLSTATE[HY000] [1045] Access denied for user 'root'@'localhost' (using password: YES)
+2020-12-08 03:48 PM: Connection (PDO), SQLSTATE[HY000] [1045] Access denied for user 'root'@'localhost' (using password: YES)
+2020-12-08 03:49 PM: Connection (PDO), SQLSTATE[HY000] [1045] Access denied for user 'root'@'localhost' (using password: YES)
+2020-12-08 03:50 PM: Connection (PDO), SQLSTATE[HY000] [1045] Access denied for user 'root'@'localhost' (using password: YES)
+2020-12-08 03:50 PM: Connection (PDO), SQLSTATE[HY000] [1045] Access denied for user 'root'@'localhost' (using password: YES)
+2020-12-08 03:50 PM: Connection (PDO), SQLSTATE[HY000] [1045] Access denied for user 'root'@'localhost' (using password: YES)
+2020-12-08 03:50 PM: Connection (PDO), SQLSTATE[HY000] [1045] Access denied for user 'root'@'localhost' (using password: YES)
+2020-12-08 03:51 PM: Connection (PDO), SQLSTATE[HY000] [1045] Access denied for user 'root'@'localhost' (using password: YES)
+2020-12-08 03:52 PM: Connection (PDO), SQLSTATE[HY000] [1045] Access denied for user 'root'@'localhost' (using password: YES)
+2020-12-08 03:56 PM: Update (General), (UPDATE user_info SET )Data not set for update
+2020-12-08 04:01 PM: Update (General), (UPDATE user_info SET )Data not set for update
+2020-12-08 04:01 PM: Update (General), (UPDATE user_info SET )Data not set for update
