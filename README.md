@@ -1,5 +1,5 @@
 # Sunkhosi-College_Project
-    It just a random project to pass out semester. The project isfor a Sunkoshi Rural Municipality which is in Sindhupalchowk district. They want an online system ofdata collection along with the functionalities like view the records, edit and delete as per need. Data collection can be categorized as: personal, organizational, industrial etc. Personal details should include name, address, profession, date of birth etc. Organizational further can be broken down into government owned, private, educational, hospitals etc. Industrial may include the local level mini and micro industries. Record entry form, its view, edit, delete functionalities should be different for different categories
+   It just a random project to pass out semester. The project isfor a Sunkoshi Rural Municipality which is in Sindhupalchowk district. They want an online system ofdata collection along with the functionalities like view the records, edit and delete as per need. Data collection can be categorized as: personal, organizational, industrial etc. Personal details should include name, address, profession, date of birth etc. Organizational further can be broken down into government owned, private, educational, hospitals etc. Industrial may include the local level mini and micro industries. Record entry form, its view, edit, delete functionalities should be different for different categories
     
 # Requiremnt to run Web Based Application
 1. Xammp : XAMPP is a free and open-source cross-platform web server solution. 
@@ -21,3 +21,10 @@
 9. Congratulation you are great !
 
 #ScreenShots 
+FontEnd
+![Screenshot](screenshot/fontend/2019-11-09_17-43.png)
+![Screenshot](screenshot/fontend/2019-11-09_17-54.png)
+![Screenshot](screenshot/fontend/2019-11-09_17-55.png)
+![Screenshot](screenshot/fontend/2019-11-09_18-09.png)
+![Screenshot](screenshot/fontend/2019-11-09_18-09_1.png)
+![Screenshot](screenshot/fontend/2019-11-09_18-10.png)
